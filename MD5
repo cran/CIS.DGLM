@@ -1,0 +1,14 @@
+136a595fd62a67ac5868ba16a1a372a8 *DESCRIPTION
+864764880c78f882097e41012253ff8d *NAMESPACE
+e295f05d43be5367b13c4d3d6e733add *R/Boot.functions.R
+48c2626eef67f06d49962da50a71044d *R/Crossplots.functions.R
+e61c9bb6274beb1bd92d962ffa55f055 *R/DGLMsimu.functions.R
+6c005ac52b024e5af1b321c55828f1da *R/forselhyb.functions.R
+a242f86e97ba23010ea45ffc1d060838 *man/bootstrap.Rd
+c68e639bf73508106986ec25ee6002ba *man/draw.crossplots.Rd
+f9cdd6d9848a6517e1fb46886cefe781 *man/draw.squareplots.Rd
+64738083f345267a17fa17caaa16f8d3 *man/forward.sel.dglm.Rd
+9e72eaaacbd5a3de0b2cbd1df642e54b *man/forward.sel.dglm.real.Rd
+052e82c4d2afaff1211f3c3786ada328 *man/mean_stress.Rd
+3410ec61cae2af7fd7b43cbe73ffec41 *man/sd.stress.Rd
+5f3de6079bd3a8cdcf91e1e406448d9e *man/simu.inter.dat.interboth.Rd
